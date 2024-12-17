@@ -16,5 +16,5 @@ I love creating interactive and responsive web applications using both front-end
  I’m a Computer Science student at Virtual University, I’m constantly seeking opportunities to learn new technologies and improve my skills.
 
 ## 🔗 Connect with me #
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umar00/) Check out Linkedin 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com) Connect with Gmail
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umar00/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](umarabdulhaque@gmail.com)
