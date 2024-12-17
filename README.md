@@ -1,5 +1,5 @@
 # Muhammad Umar
-## Computer Scietist | Full Stack developer | Python | OOP | Building Web applications
+## Computer Scientist | Full Stack developer | Python | OOP | Building Web applications
 
 ## 💻 Tech Stack:
 Python | MERN | Javscript | PHP | Laravel | Django | Rest Api | 
