@@ -2,7 +2,7 @@
 ## Computer Scientist | Full Stack developer | Python | OOP | Building Web applications
 
 ## 💻 Tech Stack:
-Python | MERN | Javscript | PHP | Laravel | Django | Rest Api | 
+Python | MERN | Javscript | PHP  | Django | Rest Api | 
 
 ## 🎯 Focus Areas
 ### Web Development
