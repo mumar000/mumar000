@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;Computer+Scientist;MERN+%26+Python+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;Computer+Scientist;MERN;Software+Engineer" />
 </div>
 
 <p align="center">
